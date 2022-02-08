@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muskan Bani
 - 👀 I’m interested in WebDevlopment and computer science
 - 🌱 I’m currently doing my undergrad.
-- 💞️ I’m looking to collaborate on tech companies
+- 💞️ I’m looking to collaborate with tech companies
 - 📫 How to reach me https://www.linkedin.com/in/muskan-bani/
 
 <!---
